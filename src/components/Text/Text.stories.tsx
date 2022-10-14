@@ -41,7 +41,7 @@ export const CustomComponent: StoryObj<TextProps> = {
   args: {
     asChild: true,
     children: (
-      <p>Text With Paragraph "p"</p>
+      <p>Text With Paragraph! "p"</p>
     ),
   },
   argTypes: {
